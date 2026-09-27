@@ -1,0 +1,16 @@
+# .NET Build-Ausgaben
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build-/Publish-Ausgaben
+publish/
+dist/
+
+# Temporäre Dateien
+*.tmp
+*.log
