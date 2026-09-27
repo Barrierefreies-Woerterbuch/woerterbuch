@@ -1,0 +1,1 @@
+window.DICTIONARY_SUGGESTION_SHARDS["0036"]=["6","6-achsig","6-geschossig","6-minütig","6-prozentig","6-tägig","6-Uhr-Vorstellung","6-Uhr-Zug","6-wöchig","6-Zimmer-Wohnung","6.","60-minütig","60-prozentig","60-Sekunden-Takt"];

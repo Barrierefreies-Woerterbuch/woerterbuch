@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f6-0078"]={"öxle":["006f-0063:b635be6e7ded17","00f6-0063:54fab70a0b225b","006f-0063:fe7917eae2b5b5"],"öxl":["006f-0063:b635be6e7ded17","00f6-0063:54fab70a0b225b","006f-0063:fe7917eae2b5b5"],"öxler":["0065-0078:d5eee544401fba"],"öxner":["0065-0078:d5eee544401fba"]};

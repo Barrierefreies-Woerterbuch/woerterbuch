@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00e4-006d"]={"ämtern":["0061-006d:a806271f3cfc04"],"ämtchen":["0061-006d:a806271f3cfc04"],"ämter":["0061-006d:a806271f3cfc04"],"ämol, ämool, emol, emool":["00e4-00e4:fd9733d35e1413"],"ämterhäufungen":["00e4-006d:103ce5a15f48a4"],"ämterhäufung":["00e4-006d:103ce5a15f48a4"]};

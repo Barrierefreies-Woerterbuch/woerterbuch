@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["007a-006b"]={"zk.":["007a-00fc:2d02dced5a83a0","007a-0075:14b49f6b73c0b6","007a-0061:c9f821c0f8f853","007a-006b:d72388a9e569af"],"zkd":["007a-0079:6934afc0e4db56"],"zkosto":["007a-006b:848558c20e5bd2"],"zk":["007a-006b:7a26b9badeec8b"],"zki":["007a-006b:4c1902b8c20d99"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00e0-002d"]={"à-la-carte-restaurant":["00e0-002d:8e9795314c4a80"],"à-la-carte-restaurants":["00e0-002d:8e9795314c4a80"],"à-la-carte-essens":["00e0-002d:bb7ca18f95dbb2"],"à-la-carte-essen":["00e0-002d:bb7ca18f95dbb2"]};

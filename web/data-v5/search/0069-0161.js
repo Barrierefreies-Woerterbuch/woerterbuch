@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0069-0161"]={"ištar":["0069-0073:d6b1ebb3598156"]};

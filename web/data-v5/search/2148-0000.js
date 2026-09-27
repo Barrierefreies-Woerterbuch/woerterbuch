@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["2148-0000"]={"ⅈ":["0069-006d:5901cb163bfe0e"]};

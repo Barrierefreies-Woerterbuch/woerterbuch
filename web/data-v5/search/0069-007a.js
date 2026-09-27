@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0069-007a"]={"izh":["0069-0073:95712198e9b10f"],"izafe":["0065-007a:1234c76dfb6f55"],"izmir":["0069-007a:c5b20f2f2b430c"],"izmirs":["0069-007a:c5b20f2f2b430c"],"izu-inseln":["0069-007a:211b2ddd7aab8d"]};

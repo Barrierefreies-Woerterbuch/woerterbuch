@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["002d-006a"]={"-jährigen":["002d-006a:e60e5a1e62e6ef"],"-jährigem":["002d-006a:e60e5a1e62e6ef"],"-jährig":["002d-006a:e60e5a1e62e6ef"],"-jähriger":["002d-006a:e60e5a1e62e6ef"],"-jährige":["002d-006a:e60e5a1e62e6ef"],"-jähriges":["002d-006a:e60e5a1e62e6ef"]};

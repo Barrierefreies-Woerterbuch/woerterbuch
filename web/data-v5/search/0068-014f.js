@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0068-014f"]={"hŏ":["0068-006f:fabe8e79e9714f"]};

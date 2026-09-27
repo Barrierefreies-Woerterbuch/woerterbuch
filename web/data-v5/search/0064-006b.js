@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0064-006b"]={"dk":["0064-00e4:7cdcb95e98ea19","0064-006b:7d1797afb69559"],"dkp":["0064-006b:73c30595fde7ee"],"dkl":["0064-006f:21ab65dafad060"],"dkg":["0064-0065:54af11e0b34f00"],"dkfm.":["0064-0069:6f43935b69fb38","0064-0069:cfd7dca7d1f6d8"]};

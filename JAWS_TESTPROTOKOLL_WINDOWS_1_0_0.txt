@@ -1,0 +1,112 @@
+JAWS-TESTPROTOKOLL – WINDOWS-VERSION 1.0.0
+==========================================
+
+Tester/in:
+Datum:
+PC / Windows-Version:
+JAWS-Version:
+Braillezeile:
+
+Bitte pro Punkt [x] für bestanden oder [ ] für nicht bestanden eintragen.
+Ergänzungen können direkt unter dem jeweiligen Punkt notiert werden.
+
+A. START ALS WINDOWS-PROGRAMM
+-----------------------------
+[ ] 1. Der Installer wurde vollständig abgeschlossen oder für die portable
+       Ausgabe wurde der vollständig entpackte Ordner verwendet.
+
+[ ] 2. Barrierefreies_Woerterbuch.exe startet ein eigenes Programmfenster.
+       Es wird kein leerer Browser-Tab geöffnet.
+
+[ ] 3. JAWS nennt das Fenster "Barrierefreies Wörterbuch".
+
+[ ] 4. Nach dem Laden befindet sich der Fokus im Suchfeld.
+
+[ ] 5. Die Bereitschaftsmeldung nennt 183.940 lokale Einträge und den
+       Datenstand 2026-09-13.
+
+B. GRUNDBEDIENUNG
+-----------------
+[ ] 6. "Karussell" eingeben und Enter drücken: Der Eintrag wird geöffnet.
+
+[ ] 7. Mit H erreicht JAWS die sichtbaren Überschriften der Reihe nach.
+
+[ ] 8. Escape bringt den Fokus jederzeit zurück ins Suchfeld.
+
+[ ] 9. "Karusell" eingeben: JAWS meldet, dass das Wort nicht gefunden wurde,
+       und erreicht "Karussell" als normale anklickbare Schaltfläche.
+
+[ ] 10. Enter auf dem Vorschlag öffnet den Eintrag "Karussell".
+
+C. WORTTRENNUNG MIT BINDESTRICHEN
+---------------------------------
+[ ] 11. Die Worttrennung von "Karussell" lautet "Ka-rus-sell".
+
+[ ] 12. Deutsch Schweiz zeigt für "Strasse" die Trennung "Stras-se".
+
+[ ] 13. Deutsch Deutschland zeigt für "Straße" die Trennung "Stra-ße".
+
+[ ] 14. JAWS liest die mit Bindestrichen dargestellte Worttrennung
+        verständlicher als die frühere Darstellung mit Mittelpunkten.
+
+D. TASTENKÜRZEL UND SPEICHERUNG
+-------------------------------
+[ ] 15. Alt+E öffnet beziehungsweise erreicht Einstellungen.
+
+[ ] 16. Alt+G, Alt+F, Alt+W, Alt+B und Alt+Y erreichen die entsprechenden
+        sichtbaren Ergebnisrubriken.
+
+[ ] 17. Alt+H, Alt+P, Alt+R, Alt+K, Alt+D und Alt+Q erreichen die
+        entsprechenden sichtbaren Ergebnisrubriken.
+
+[ ] 18. Ein Kürzel für eine ausgeblendete Rubrik öffnet die Einstellungen und
+        meldet, dass die Rubrik dort wieder eingeblendet werden kann.
+
+[ ] 19. Nach Schliessen mit Alt+F4 und erneutem Start bleiben Sprache und
+        ausgewählte Rubriken gespeichert.
+
+[ ] 20. Nach Maximieren, Schliessen mit Alt+F4 und erneutem Start öffnet sich
+        das Programm wieder maximiert. Auch eine selbst gewählte normale
+        Fenstergrösse bleibt nach einem Neustart erhalten.
+
+E. ÜBER DIESES WÖRTERBUCH
+-------------------------
+[ ] 21. Der Link "Über dieses Wörterbuch" ist per Tab erreichbar.
+
+[ ] 22. Der Link öffnet ein verständliches Dialogfeld; der Fokus erreicht die
+        Überschrift "Über dieses Wörterbuch".
+
+[ ] 23. Escape oder "Schliessen" schliesst das Dialogfeld und bringt den Fokus
+        zum Link zurück.
+
+F. QUELLENLINK UND OFFLINE-BETRIEB
+----------------------------------
+[ ] 24. Ein freiwillig geöffneter Quellenlink öffnet den Standardbrowser und
+        ersetzt nicht das Wörterbuchfenster.
+
+[ ] 25. Ohne Internetverbindung startet das Wörterbuch und die Suche arbeitet
+        weiterhin vollständig.
+
+G. DARSTELLUNG
+--------------
+[ ] 26. Hintergrundbild, weisser Vorhang und Logo werden angezeigt.
+
+[ ] 27. Suchfeld und Suchen-Schaltfläche bleiben weiss und gut erkennbar.
+
+[ ] 28. Unter dem Titel steht nur "Version 1.0.0" ohne Punkt am Schluss und
+        kein weiterer Text.
+
+[ ] 29. Das Symbol der EXE-Datei beziehungsweise der Anwendung besitzt einen
+        gut erkennbaren gelben Hintergrund.
+
+H. ABSCHLUSS
+------------
+[ ] 30. Alt+F4 schliesst das Windows-Programm vollständig.
+
+Gesamtergebnis:
+[ ] Windows-Version 1.0.0 bestanden
+[ ] Nachbesserung erforderlich
+
+Bemerkungen:
+
+

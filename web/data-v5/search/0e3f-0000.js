@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0e3f-0000"]={"฿":["0062-0061:cfc75312cd0c53"]};

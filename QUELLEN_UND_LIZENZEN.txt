@@ -1,0 +1,102 @@
+QUELLEN UND LIZENZEN – BARRIEREFREIES WÖRTERBUCH 1.0.0
+=====================================================
+
+Diese Windows-Ausgabe kombiniert frei verfügbare Wörterbuchdaten und freie
+Trennmuster. Die Datenbank darf unter Beachtung der nachfolgend genannten
+Lizenzen verwendet, bearbeitet und weitergegeben werden.
+
+1. DEUTSCHSPRACHIGES WIKTIONARY VIA WIKTEXTRACT
+------------------------------------------------
+Inhalt: Stichwörter, Wortarten, Artikel, Wortformen, Bedeutungen und ein Teil
+der Synonyme.
+
+Quelldatei: maschinenlesbarer Wiktextract-Export des deutschsprachigen
+Wiktionary, heruntergeladen am 6. September 2026.
+
+Quellen:
+https://kaikki.org/dewiktionary/rawdata.html
+https://de.wiktionary.org/
+
+Lizenzen der Inhalte: Creative Commons Namensnennung – Weitergabe unter
+gleichen Bedingungen und GNU-Lizenz für freie Dokumentation. Die konkrete
+Wiktionary-Seite wird in jedem Wörterbucheintrag verlinkt und ermöglicht die
+Zuordnung zu Quelle, Versionsgeschichte und Mitwirkenden.
+
+Lizenzinformationen:
+https://creativecommons.org/licenses/by-sa/4.0/deed.de
+https://www.gnu.org/licenses/fdl-1.3.html
+
+2. OPENTHESAURUS
+-----------------
+Inhalt: zusätzliche Synonyme.
+
+Quelldatei: deutscher Text-Export, heruntergeladen am 6. September 2026.
+Quelle: https://www.openthesaurus.de/about/download
+Gewählte Lizenz: Creative Commons Namensnennung – Weitergabe unter gleichen
+Bedingungen 4.0 International (CC BY-SA 4.0).
+
+OpenThesaurus wird in jedem Eintrag genannt, der Daten aus dieser Quelle nutzt.
+Die jeweilige Synonymseite ist dort verlinkt.
+
+Lizenzinformationen:
+https://creativecommons.org/licenses/by-sa/4.0/deed.de
+
+3. DEHYPH-EXPTL
+----------------
+Inhalt: deutsche Trennmuster für die automatisch berechnete Worttrennung.
+
+Datei: importer\patterns\dehyphn-x-2024-02-28.pat
+Quelle: https://ctan.org/pkg/dehyph-exptl
+Lizenz der verwendeten Daten: MIT-Lizenz.
+
+Der vollständige MIT-Lizenztext liegt in:
+LIZENZ_DEHYPH_EXPTL.txt
+
+4. EIGENER PROGRAMMCODE UND KOSTENLOSE WEITERGABE
+-------------------------------------------------
+Die Bedienoberfläche, der lokale Suchindex und der Windows-Programmrahmen sind
+eigenständig für das Projekt erstellt. Die Lizenzpflichten der
+eingebundenen Daten bleiben davon unberührt.
+Ersteller: Alessandro Fabiano.
+Das eingebundene Logo liegt als skalierbare SVG-Grafik mit transparentem
+Hintergrund vor und ist Bestandteil der vollständigen Ausgabe.
+
+Die vollständige und unveränderte Ausgabe des Barrierefreien Wörterbuchs darf
+kostenlos kopiert und weitergegeben werden. Diese kostenlose Weitergabe ist
+ausdrücklich erwünscht. Dabei müssen diese Datei, sämtliche Quellenangaben,
+Lizenzhinweise und die Lizenzdatei der Trennmuster vollständig erhalten
+bleiben. Diese Erlaubnis gestattet nicht, fremde Daten unter einer anderen
+Lizenz anzubieten oder bestehende Urheberhinweise zu entfernen.
+Rechte, die sich unmittelbar aus den jeweiligen freien Quellenlizenzen
+ergeben, werden durch diese Regelung nicht eingeschränkt.
+
+5. HINWEIS ZUR WEITERGABE
+-------------------------
+Bei einer Weitergabe des Wörterbuchordners müssen diese Quellenhinweise, die
+Quellenangaben in den Einträgen und die Lizenzdatei der Trennmuster erhalten
+bleiben. Bearbeitete Daten sind unter den jeweils geltenden Bedingungen der
+Ausgangsquelle weiterzugeben.
+
+6. CHARAKTERISTISCHE WORTKOMBINATIONEN
+--------------------------------------
+Der am 6. September 2026 verwendete deutschsprachige Wiktextract-Export stellt
+diese Wiktionary-Rubrik nicht als eigenes Datenfeld bereit. Version 1.0 besitzt
+bereits die entsprechende Anzeige- und Importstruktur, enthält aus dieser
+Quelle aber noch keine Einträge dafür. Sinnverwandte Wörter werden bewusst
+nicht als Ersatz verwendet.
+
+7. MITGELIEFERTE SOFTWAREKOMPONENTEN
+------------------------------------
+Die portable Windows-Ausgabe enthält die Microsoft .NET 10-Laufzeit und das
+Microsoft WebView2 SDK 1.0.4191.47. Dadurch benötigt das Wörterbuch keine
+separate .NET-Installation. Die WebView2-Laufzeit selbst wird nicht mitgeliefert;
+sie gehört zu Windows 11 beziehungsweise ist auf den meisten aktuellen
+Windows-10-PCs zusammen mit Microsoft Edge bereits vorhanden.
+
+Die vollständigen Lizenz- und Drittanbieterhinweise der mitgelieferten
+Komponenten liegen in:
+
+- LIZENZ_DOTNET.txt
+- DRITTANBIETERHINWEISE_DOTNET.txt
+- LIZENZ_WEBVIEW2_SDK.txt
+- DRITTANBIETERHINWEISE_WEBVIEW2_SDK.txt

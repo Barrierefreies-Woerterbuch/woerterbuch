@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["20bf-0000"]={"₿":["0062-0069:c5fbdb7a0635d9"]};

@@ -1,0 +1,23 @@
+<Window x:Class="BarrierefreiesWoerterbuch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:automation="clr-namespace:System.Windows.Automation;assembly=PresentationCore"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        Title="Barrierefreies Wörterbuch"
+        Width="1200"
+        Height="820"
+        MinWidth="720"
+        MinHeight="540"
+        WindowStartupLocation="CenterScreen"
+        Language="de-CH"
+        Loaded="MainWindow_Loaded"
+        Closing="MainWindow_Closing"
+        StateChanged="MainWindow_StateChanged"
+        automation:AutomationProperties.Name="Barrierefreies Wörterbuch">
+    <Grid Background="White">
+        <wv2:WebView2 x:Name="DictionaryView"
+                      Focusable="True"
+                      DefaultBackgroundColor="White"
+                      automation:AutomationProperties.Name="Wörterbuchinhalt" />
+    </Grid>
+</Window>

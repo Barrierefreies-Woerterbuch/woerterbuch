@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["002d-00e4"]={"-ärmlig":["002d-00e4:dc82856ee7812e"],"-ärmelig":["002d-00e4:dc82856ee7812e"],"-ämie":["002d-00e4:a8ce37a646a249","002d-0068:a2f8fb755b8956"],"-äugig":["002d-00e4:3a8f99a1563e64"],"-är":["002d-0061:5030c576b15308","002d-00e4:fbb02a2e61de90"],"-ästhesie":["002d-00e4:7083852992e064"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0061-00f6"]={"aö":["0061-00f6:f7945cd5038c3e"],"aöden":["0061-00f6:7b435832d39d84"],"aöde":["0061-00f6:7b435832d39d84"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SUGGESTION_SHARDS["0030"]=["0","0,2-Liter-Flasche","0,33-Liter-Flasche","0,5-Liter-Flasche","0,7-Liter-Flasche","0,75-Liter-Flasche","0.","0190-Nummer","0190-Rufnummer","0190er-Nummer","08/15"];

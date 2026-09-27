@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0064-0036"]={"d614-form":["0064-0036:eee3dd84a25cad"],"d614-variante":["0064-0036:438e4700e75720"]};

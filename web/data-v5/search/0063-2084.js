@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0063-2084"]={"c₄-pflanze":["0063-0034:b0008553baa13e"]};

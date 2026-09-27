@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f6-0069"]={"öism":["00f6-0069:c076176b8cee57"]};

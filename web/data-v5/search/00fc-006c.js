@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00fc-006c"]={"ülme":["00fc-006c:2de9f0d6b41017"],"ülmen":["00fc-006c:2de9f0d6b41017"],"ülmst":["00fc-006c:2de9f0d6b41017"],"ülmte":["00fc-006c:2de9f0d6b41017"],"ülme!":["00fc-006c:2de9f0d6b41017"],"ülmt":["00fc-006c:2de9f0d6b41017"],"ülmt!":["00fc-006c:2de9f0d6b41017"]};

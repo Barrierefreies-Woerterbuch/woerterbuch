@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["2019-0072"]={"’rüber":["0072-00fc:84e3f4197458c3"]};

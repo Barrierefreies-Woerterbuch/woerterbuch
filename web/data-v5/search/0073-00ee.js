@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0073-00ee"]={"sîvrit":["0073-0069:91e332750f3c5c"]};

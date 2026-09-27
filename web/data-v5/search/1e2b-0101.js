@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["1e2b-0101"]={"ḫāriǧit":["0063-0068:63230844b11b96"]};

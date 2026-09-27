@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0076-00f5"]={"võro":["0076-00f5:8266ac73411e39"],"võros":["0076-00f5:8266ac73411e39"]};

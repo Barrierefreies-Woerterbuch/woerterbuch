@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0032-0064"]={"2d":["0032-0064:4effe69e4e7e36","007a-0077:c0e30c910b9c13","007a-0077:ca5bc9a669eb3a"],"2dimensional":["007a-0077:c0e30c910b9c13"]};

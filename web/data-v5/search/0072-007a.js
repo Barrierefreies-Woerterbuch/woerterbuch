@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-007a"]={"rzp.":["0072-0065:b47fff33e1bd3e","0072-007a:c7d28fbe8e56db"],"rz":["0072-007a:dff77dbe7accb7","0072-0061:0a58b1453be75e","0072-00fc:5c971c07da3292","0072-0061:a8dbdc4da10ee1","0072-0065:86341127ff4afd","0072-0065:cbd6775885a67d"],"rzeszóws":["0072-007a:53bc7880a83e9d"],"rzeszów":["0072-007a:53bc7880a83e9d"]};

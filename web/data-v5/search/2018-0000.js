@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["2018-0000"]={"‘":["0061-0062:623b4fbe6e5cfa"]};

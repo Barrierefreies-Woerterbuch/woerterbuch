@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0070-0071"]={"pqp":["0070-006c:fbfa762fda0a22"]};

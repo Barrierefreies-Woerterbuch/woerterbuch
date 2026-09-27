@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0032-0066"]={"2fach":["007a-0077:72493ef41cb7a1"],"2farbig":["007a-0077:9878d663d4c95a"],"2fa":["007a-0077:03e530b413d550"]};

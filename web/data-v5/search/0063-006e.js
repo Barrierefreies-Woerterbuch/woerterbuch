@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0063-006e"]={"cn":["0063-0068:b635d407b1ef6e","0063-0061:0070150d75be5c","0063-006f:4ebf02beafc9fb"],"cnc":["0063-006e:128c4de3e93ce9"],"cny":["0072-0065:996d0c101febf6"],"cnn":["0063-006e:ead765795ab53c"],"cnn-reporters":["0063-006e:8992144b9a0733"],"cnn-reporter":["0063-006e:8992144b9a0733"],"cnn-reportern":["0063-006e:8992144b9a0733"]};

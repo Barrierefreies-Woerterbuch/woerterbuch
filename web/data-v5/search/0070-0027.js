@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0070-0027"]={"p'dorf":["0070-0065:c28eefd0d6de86"]};

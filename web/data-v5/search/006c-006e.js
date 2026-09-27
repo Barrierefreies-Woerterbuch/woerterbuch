@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006c-006e"]={"ln":["006d-006f:02a2b1df3fca05","006c-006e:0b468a715bcc2d","006c-0069:3ad05bfa04fc42"],"lngs":["006c-006e:f3b22714d9049a"],"lng":["006c-006e:f3b22714d9049a","0066-006c:fa0045be9d0053"]};

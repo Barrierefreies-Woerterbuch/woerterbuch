@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0064-00e1"]={"dáád mi spulche":["0073-0070:0f6161581a4895"]};

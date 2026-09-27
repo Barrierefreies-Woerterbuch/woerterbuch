@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-00f8"]={"rønnes":["0072-00f8:69e75eb15db824","0072-00f8:2475a97cd0e7cc"],"rønne":["0072-00f8:69e75eb15db824","0072-00f8:2475a97cd0e7cc"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006a-2019"]={"j’accuse":["006a-2019:21eeb72f05291b","006a-2019:3bee99684171ec"]};

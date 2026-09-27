@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0153-0075"]={"œuvren":["0153-0075:896c39cb532d02"],"œuvre":["0153-0075:896c39cb532d02"],"œuvres":["0153-0075:896c39cb532d02"]};

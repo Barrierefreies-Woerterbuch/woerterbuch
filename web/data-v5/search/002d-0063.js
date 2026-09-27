@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["002d-0063"]={"-chen":["002d-0063:6bced5b6e10ec2"],"-chens":["002d-0063:6bced5b6e10ec2"],"-chorie":["002d-0063:7e46f401a0a172"],"-coel":["002d-0063:fdb7c15655008d","002d-0063:24762770b92bc6"],"-cöl":["002d-0063:fdb7c15655008d"],"-cele":["002d-0063:39c4b741116c43","002d-007a:871ef7775599af"],"-chinesisch":["002d-0063:dac8791960e176"]};

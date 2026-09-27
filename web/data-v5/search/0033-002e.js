@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0033-002e"]={"3.":["0033-002e:ed325451b728e6","0064-0072:21340967ad9ac8"],"3. johannesbrief":["0033-002e:5b3c87a5c5d21b"],"3. johannesbriefs":["0033-002e:5b3c87a5c5d21b"],"3. johannesbriefes":["0033-002e:5b3c87a5c5d21b"]};

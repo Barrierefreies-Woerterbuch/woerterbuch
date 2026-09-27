@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0039-0035"]={"95 thesen":["0039-0035:ccb0fab4bf988b"]};

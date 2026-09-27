@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0437-044f"]={"зяльдовіч":["0073-0065:375c30535a61e3"]};

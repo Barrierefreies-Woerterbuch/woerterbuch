@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0074-00ea"]={"tête-à-tête":["0074-00ea:49ffcb8289cec1","0074-00ea:6a87f435df4fd8"],"tête-à-têtes":["0074-00ea:6a87f435df4fd8"],"tête":["0074-00ea:dfb831b2db4d3a","0074-0065:5e1e5bec326dbc"],"têten":["0074-00ea:dfb831b2db4d3a"]};

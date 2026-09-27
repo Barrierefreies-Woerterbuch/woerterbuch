@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006e-0068"]={"nhd.":["006e-0068:a8f736aeb1971f","006e-0065:4ff1fc44bd5110","006e-0065:4ba673cbd105de"],"nh":["006e-0065:150a0c1530b09c","006e-0069:81bf42b1b98f3f"],"nhn":["007a-0065:dcd86ae6b892e3"],"nhbr.":["006e-0068:3da7d63d7c75c0"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0161-0061"]={"šachty":["0073-0063:fc526d0d9e317a"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0071-006b"]={"qkm":["0071-006b:dcd220eec54f57","0071-0075:cfebcab5f272b5"]};

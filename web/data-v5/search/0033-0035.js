@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0033-0035"]={"3542":["0067-0066:f5d6b1ad0de180"],"35.":["0066-00fc:8ad872359e114a"],"35-jährige":["0033-0035:5afd5dba71781e"],"35-jährigem":["0033-0035:5afd5dba71781e"],"35-jährigen":["0033-0035:5afd5dba71781e"],"35-jähriger":["0033-0035:5afd5dba71781e"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SUGGESTION_SHARDS["0039"]=["9","9-geschossig","9-minütig","9-mm-Pistole","9-prozentig","9-seitig","9-tägig","9-wöchig","9.","9/11","90-Minüter","90-minütig","90-prozentig","95 Thesen"];

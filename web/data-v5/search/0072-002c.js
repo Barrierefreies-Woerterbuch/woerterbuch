@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-002c"]={"r, rₜₕ":["0077-00e4:a740be09572baf"]};

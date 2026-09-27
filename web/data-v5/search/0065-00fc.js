@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0065-00fc"]={"eü":["0065-0069:f98bfc08d7e96a"]};

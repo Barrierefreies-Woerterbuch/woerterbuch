@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["005b-0036"]={"[6] formelzeichen: s":["0077-0065:84096acfbaf2d0"],"[6] ⚮":["0067-0065:65fbb1a5c9045f"],"[6] ✝":["0067-0065:307f7c31b2800b"],"[6] weiblicher hase":["0068-0061:d5eb434730beee"],"[6] f":["0066-0061:168729cc3b1964"]};

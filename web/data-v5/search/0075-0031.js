@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0075-0031"]={"u19-nationalmannschaften":["0075-0031:1d8dbc3edd443b"],"u19-nationalmannschaft":["0075-0031:1d8dbc3edd443b","0075-002d:659ceef9f9bcfd"],"u18-europameisterschaften":["0075-0031:8d400948f7335b"],"u18-europameisterschaft":["0075-0031:8d400948f7335b"]};

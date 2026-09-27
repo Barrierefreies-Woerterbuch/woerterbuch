@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["02c8-0000"]={"ˈ":["0068-0061:ad3f83cc458d54"]};

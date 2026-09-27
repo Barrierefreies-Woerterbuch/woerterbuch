@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00a2-0000"]={"¢":["0063-0065:3b27249c9a4caa"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0074-00e9"]={"tétum":["0074-0065:38588abaf100d0"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0038-0070"]={"8prozentig":["0061-0063:93b5c9c66c3848","0038-002d:f2d06c9ed492bc"]};

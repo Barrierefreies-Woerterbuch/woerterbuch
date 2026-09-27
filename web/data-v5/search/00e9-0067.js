@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00e9-0067"]={"égalité":["0065-0067:555fd8d3526854"]};

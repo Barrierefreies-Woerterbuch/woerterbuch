@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0079-0068"]={"yhvh":["006a-0065:88c11c94e6e882"],"yhwh":["006a-0065:88c11c94e6e882"]};

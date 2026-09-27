@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-0034"]={"r43.2":["0061-0067:358daacde09ddf"],"r43.0":["0061-006e:bf2fc2c2e1e936"]};

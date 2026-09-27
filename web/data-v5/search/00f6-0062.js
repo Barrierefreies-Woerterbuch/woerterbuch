@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f6-0062"]={"öbstlerin":["006f-0062:0abfb30492de43","006f-0062:937e02c6bc0718","00f6-0062:9745470377ede1"],"öbb":["00f6-0062:ae8178cd0a5ec6"],"öbser":["006f-0062:00dde8af060459"],"öbstlerinnen":["00f6-0062:9745470377ede1"]};

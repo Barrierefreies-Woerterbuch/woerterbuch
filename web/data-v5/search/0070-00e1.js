@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0070-00e1"]={"pádel":["0070-0061:990d5d538aedc3"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-0066"]={"rf":["0072-0075:e33260b4feaa53"],"rfid":["0072-0066:802bef7cbbc13c"],"rflettüaüg":["0072-0069:594f2c1b98c438"],"rfl":["0072-0065:f2a50295d2771d"],"rfss":["0072-0065:d420ea2a9c3737"],"rfb":["0072-0066:ce461cdd357c85"]};

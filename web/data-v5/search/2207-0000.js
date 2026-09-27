@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["2207-0000"]={"∇":["0064-0069:ddba47a0e6a8b7","006e-0061:f79e28bb2e9eb0"]};

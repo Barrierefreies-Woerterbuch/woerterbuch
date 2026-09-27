@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006c-0068"]={"lh":["006c-0075:0c3688681ebb7a","006c-0068:b2c1b3be65c102","006c-0069:0704cea4655478"],"lhdf., henno, langhenno":["006c-0061:586f1d1acb58c9"],"lhotse":["006c-0068:fb7ce9201ca914"],"lhotses":["006c-0068:fb7ce9201ca914"],"lhasas":["006c-0068:1a00c00a39b225"],"lhasa":["006c-0068:1a00c00a39b225"]};

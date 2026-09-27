@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-00ed"]={"río magdalena":["0072-00ed:d89d9278089e66"],"río magdalenas":["0072-00ed:d89d9278089e66"],"río cauca":["0072-00ed:8ad45e9ba4190d"],"río grijalva":["0072-00ed:ad807950ee27e6"],"río paraná":["0072-0069:d85c5c3f02b9cf"]};

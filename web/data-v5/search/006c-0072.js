@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006c-0072"]={"lr":["006c-0061:aa5f52acc2144d","006c-0072:f9aac26d1572eb"],"lrs":["006c-0065:dd302c991c69a0","006c-0072:53197e207b39e6","006c-0069:e7d387abb958dc"],"lrh.":["006c-0069:7cefafdd8045e1","006c-0072:1c57dcfe810df2"],"lrh":["006c-0072:e68fa2a7643a1f"],"lra":["006c-0061:9175f866a9a8ed"],"lr-shunt":["006c-002d:04cbf40699fb08"]};

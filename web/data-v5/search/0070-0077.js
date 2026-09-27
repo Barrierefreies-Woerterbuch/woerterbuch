@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0070-0077"]={"pwnen; 0wnen etc.":["006f-0077:411ed99da29631"],"pw":["0070-0061:8ae70a9ce45b92","0070-0061:40e1209e16fa3e"]};

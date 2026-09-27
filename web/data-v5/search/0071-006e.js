@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0071-006e"]={"qnormbanv":["0071-006e:68754efa77d646"]};

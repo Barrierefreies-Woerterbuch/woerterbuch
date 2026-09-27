@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["007a-006d"]={"zm":["0073-0061:03a5db9bf80820"],"zmb":["0073-0061:03a5db9bf80820"],"zmz":["007a-006d:a703c909d22cc3"],"zmp":["007a-006d:5aaee1052bce14"],"zmittag":["007a-006d:08b21d18dfc505"],"zmittags":["007a-006d:08b21d18dfc505"],"zms":["007a-0077:e8970313b71236","007a-006d:5b8ffe0b504f68"],"zmw":["006b-0077:956b4c4bb1ab50"]};

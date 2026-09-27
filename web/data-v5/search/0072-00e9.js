@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-00e9"]={"réunion":["0072-00e9:e2b41c45db2e39"],"réunions":["0072-00e9:e2b41c45db2e39"],"résumé":["0072-0065:f50e2474961c3f"],"récamieren":["0072-00e9:d26190ae3abf2c"],"récamiere":["0072-00e9:d26190ae3abf2c"],"récamière":["0072-00e9:d26190ae3abf2c"],"résistance":["0072-00e9:4375fe877d5f7f"]};

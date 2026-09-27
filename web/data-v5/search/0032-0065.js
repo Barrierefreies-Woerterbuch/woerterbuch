@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0032-0065"]={"2er-system":["007a-0077:1331e435dd06fb"],"2er-logarithmus":["007a-0077:817b8932ee1e13"],"2eiig":["007a-0077:cf77636b1a1ac6"],"2er-gruppe":["007a-0077:f62f37a47666f8"],"2er-reihe":["007a-0077:fc03410ef827d0"],"2er-gespräch":["007a-0077:235e39a67578db"],"2er-beziehung":["007a-0077:51eb6cb880ed4b"]};

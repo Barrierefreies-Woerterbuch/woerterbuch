@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["2206-0074"]={"∆t":["0074-0065:7c25ddbbe09e0c"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0065-017c"]={"eżāfe":["0065-007a:1234c76dfb6f55"]};

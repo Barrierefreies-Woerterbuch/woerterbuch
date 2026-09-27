@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0028-0062"]={"(bätzte)":["0062-00e4:0af6114f2acf6c"],"(bätzte aus)":["0061-0075:e5d4d425aa3f73"],"(bätzte anhin)":["0061-006e:b65d0a5dcee241"],"(beutelte abher)":["0061-0062:0c05de5cbcecd6"],"(blattelte ab)":["0061-0062:11ded50f0a368d"]};

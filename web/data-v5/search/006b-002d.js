@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006b-002d"]={"k-pops":["006b-002d:a036ef12dda9d8"],"k-pop":["006b-002d:a036ef12dda9d8"],"k-frage":["006b-002d:0efbc271394107"],"k-fragen":["006b-002d:0efbc271394107"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0073-006a"]={"sjz":["0073-006a:ff41eb9b733a6d"],"sjaan":["006a-006f:78d5a44dde5ccb"],"sjn":["0073-0069:728428b9a6f47b"],"sj":["0073-006f:260267bea978e3"],"sjd":["006b-0069:97092023afc599"]};

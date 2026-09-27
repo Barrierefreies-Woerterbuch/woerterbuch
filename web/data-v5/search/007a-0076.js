@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["007a-0076"]={"zv":["007a-0076:d8b230bc87d7d1","007a-0065:aa5d4ebb05bb9b"],"zvg":["007a-0076:18f46333235816"],"zvieri":["007a-0076:21b4d69dada0b8"],"zvieris":["007a-0076:21b4d69dada0b8"],"zvist":["0073-0077:ec36763f8ebbbe"],"zvk":["007a-0076:e7b12925eea0e1"]};

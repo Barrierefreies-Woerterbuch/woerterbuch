@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0035-0025"]={"5%-hürde":["0066-00fc:469ae08fbe8918"]};

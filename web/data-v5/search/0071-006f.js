@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0071-006f"]={"qophs":["0071-006f:5a90e0842512e3"],"qoph":["0071-006f:5a90e0842512e3"],"qoppas":["0071-006f:eb2a6a57ac44fe"],"qoppa":["0071-006f:eb2a6a57ac44fe","006b-006f:0af34a6ec7e9b9"],"qoʻqon":["006b-006f:06c7ad3faa84e3"],"qods-brigade":["0071-0075:0a14d4be86980a"]};

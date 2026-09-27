@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["007b-007b"]={"{{{dativ plural stark}}}":["0070-0061:c8c787c34e325d"],"{{{nominativ plural stark}}}":["0070-0061:c8c787c34e325d"],"{{{akkusativ plural stark}}}":["0070-0061:c8c787c34e325d"],"{{{genitiv plural stark}}}":["0070-0061:c8c787c34e325d"]};

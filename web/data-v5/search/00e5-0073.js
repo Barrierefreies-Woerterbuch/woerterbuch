@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00e5-0073"]={"ås":["006f-0073:bd4c2c9c80dd29","00e5-0073:09556aa430ff8a"],"åsar":["00e5-0073:09556aa430ff8a"]};

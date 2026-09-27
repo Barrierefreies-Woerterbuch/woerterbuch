@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["d5c8-0000"]={"허":["0068-006f:fabe8e79e9714f"]};

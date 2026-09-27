@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["002d-0076"]={"-vörde":["002d-0076:3c03a7910100a7"],"-verdächtig":["002d-0076:81f3183c5dde46"],"-versteherin":["002d-0076:b49f28f4c6391d"],"-versteher":["002d-0076:b49f28f4c6391d"]};

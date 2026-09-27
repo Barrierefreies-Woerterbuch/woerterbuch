@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0071-0073"]={"qs":["0071-0000:cbb6cf08771bc9","0071-0073:4cc2fe4e492fe8"],"qse":["0071-0073:ef461018a03d2b"],"qso":["0071-0075:7dd6f9155d365a"]};

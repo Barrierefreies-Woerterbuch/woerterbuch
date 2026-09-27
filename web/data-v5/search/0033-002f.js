@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0033-002f"]={"3/4-takt":["0064-0072:6c5f46eab166a2"],"3/8-takt":["0064-0072:aa67337e5de812"],"3/4-mehrheit":["0064-0072:c66bb3aedcbdf4"],"3/4-stunde":["0064-0072:96f9f8f0f3ac60"],"3/4-million":["0064-0072:b50f5554d7a9ab"],"3/4-ärmel":["0064-0072:7444c7bfa1caff"]};

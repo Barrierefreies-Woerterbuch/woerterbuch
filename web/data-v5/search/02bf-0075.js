@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["02bf-0075"]={"ʿulamā'":["0075-006c:49a3c45c96e2d6"]};

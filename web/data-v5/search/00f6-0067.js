@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f6-0067"]={"ögk":["00f6-0067:bf944755e3fd6d"]};

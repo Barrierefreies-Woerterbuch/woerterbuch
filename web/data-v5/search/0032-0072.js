@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0032-0072"]={"2rädrig":["007a-0077:323ea5b6ba3387"]};

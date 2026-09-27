@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["20aa-0000"]={"₪":["0073-0063:bdebd3612ce59f"]};

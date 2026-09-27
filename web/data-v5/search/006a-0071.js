@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006a-0071"]={"jqr":["006a-0061:ab390dd581cada"]};

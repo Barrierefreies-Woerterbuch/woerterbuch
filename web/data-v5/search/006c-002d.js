@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006c-002d"]={"l-förmige":["006c-002d:313a50464b0610"],"l-förmiger":["006c-002d:313a50464b0610"],"l-förmigen":["006c-002d:313a50464b0610"],"l-förmig":["006c-002d:313a50464b0610"],"l-förmiges":["006c-002d:313a50464b0610"],"l-förmigem":["006c-002d:313a50464b0610"],"l-r-shunt":["006c-0069:e7d387abb958dc","006c-002d:04cbf40699fb08"]};

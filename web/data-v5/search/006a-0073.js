@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006a-0073"]={"js":["006a-0000:1a23fdff071316","006a-0073:9e810ef52a8ae9","006a-0061:cadb06d21789d5"],"jscripts":["006a-0073:9e810ef52a8ae9"],"jscript":["006a-0073:9e810ef52a8ae9"],"jss":["006a-0073:c9e3fc9f7e173b"],"json":["006a-0073:999677950c7a95"],"jstl":["006a-0073:13cf7c920a1d49"],"jsoc":["006a-0073:28eef22ef667cf"]};

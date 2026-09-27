@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006e-006a"]={"nj":["006e-006a:3b086bb3060ce9","006e-0065:1deb1d877093e0"],"njw":["006e-006a:14a7177a3c6673"],"njemens":["006e-006a:c90e2c0f402920"],"njemen":["006e-006a:c90e2c0f402920"],"njemenbrücke":["006e-006a:c0bf7d19427c0f"],"njemenbrücken":["006e-006a:c0bf7d19427c0f"]};

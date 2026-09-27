@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["02c7-0000"]={"ˇ":["0068-0061:e4c8cfe80f718a"]};

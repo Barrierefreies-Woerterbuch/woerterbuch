@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0030-0031"]={"0190-nummer":["0030-0031:a0358f2c039887"],"0190-nummern":["0030-0031:a0358f2c039887"],"0190er-nummer":["0030-0031:630b6534f18a7e"],"0190er-nummern":["0030-0031:630b6534f18a7e"],"0190-rufnummer":["0030-0031:0ce679d3ee1203"],"0190-rufnummern":["0030-0031:0ce679d3ee1203"]};

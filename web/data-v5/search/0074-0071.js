@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0074-0071"]={"tqm":["0074-0071:f0a7ef3390ac3a"],"tq":["0061-006e:a652f2cb598cb7"]};

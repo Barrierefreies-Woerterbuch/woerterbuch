@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0074-006a"]={"tja":["0074-006a:52803059dc16e8"],"tjalv":["0064-0065:6a662bd91aa0ca"],"tjumens":["0074-006a:c7585b9cb71671"],"tjumen":["0074-006a:c7585b9cb71671"],"tjarks":["0074-006a:988d65b86e9e6a"],"tjark":["0074-006a:988d65b86e9e6a"],"tjorries":["0074-006a:fba6818e03569b"],"tjorrie":["0074-006a:fba6818e03569b"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-00f4"]={"rôtisseur":["0072-006f:06836ba599fb9c"]};

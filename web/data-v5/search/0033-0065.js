@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0033-0065"]={"3er-system":["0064-0072:4137b9b47fad26"],"3er-wette":["0064-0072:39072503e1b095"],"3er-gruppe":["0064-0072:404ebdf56eca9e"],"3er-reihe":["0064-0072:48dbc70169f812"],"3er-gespräch":["0064-0072:fc62eb5814d193"]};

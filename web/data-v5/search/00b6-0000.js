@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00b6-0000"]={"¶":["0061-0062:e9d1db3be46e61","0061-006c:7eb82f1a1c83ae"]};

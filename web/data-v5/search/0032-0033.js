@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0032-0033"]={"23.":["0064-0072:ed4aaad2503195"],"23-jährig":["0064-0072:4bc676d3581bfc"]};

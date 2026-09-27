@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006f-0079"]={"oyen":["0061-0075:52fa7c0d2007e2","0061-0075:3b36193a189c2c"],"oyos":["006f-0079:f4e88e4e27bce6"],"oyo":["006f-0079:f4e88e4e27bce6"],"oybin":["006f-0079:ce0e8611acaebc","006f-0079:bb475dae666feb"],"oybins":["006f-0079:ce0e8611acaebc","006f-0079:bb475dae666feb"]};

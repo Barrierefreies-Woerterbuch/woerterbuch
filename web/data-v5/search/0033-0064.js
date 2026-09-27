@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0033-0064"]={"3d":["0033-0064:0f5cda48e2584d","0033-002d:29db775713c2d7","0064-0072:2b59dff2497e69"],"3d-drucker":["0033-002d:f8c8d11eaa8212"],"3d-gestaltung":["0033-0064:72549a62ea37b7"]};

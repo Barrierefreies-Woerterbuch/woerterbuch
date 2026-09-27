@@ -1,0 +1,1 @@
+window.DICTIONARY_SUGGESTION_SHARDS["0037"]=["7","7-geschossig","7-Kilometer-Lauf","7-minütig","7-prozentig","7-Tage-Inzidenz","7-Tage-R","7-tägig","7-Uhr-Vorstellung","7-Uhr-Zug","7-wöchig","7-Zimmer-Wohnung","7.","70-minütig","70-prozentig","75-prozentig"];

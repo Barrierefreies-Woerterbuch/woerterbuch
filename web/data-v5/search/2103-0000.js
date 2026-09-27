@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["2103-0000"]={"℃":["0067-0072:2f2a69fe6eb7f7"]};

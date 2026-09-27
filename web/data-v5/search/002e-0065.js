@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["002e-0065"]={".eg":["00e4-0067:ac031390d80f97"]};

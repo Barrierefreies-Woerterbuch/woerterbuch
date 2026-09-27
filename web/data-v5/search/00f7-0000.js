@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f7-0000"]={"÷":["0064-0069:549a5e99cd6e3b"]};

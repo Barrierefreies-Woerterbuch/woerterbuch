@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0062-0101"]={"bāb al-mandab":["0062-0061:f002ae3b640483"]};

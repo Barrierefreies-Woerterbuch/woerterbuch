@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0028-0077"]={"(wenig)":["006d-0069:c52f957d72c7bf"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SUGGESTION_SHARDS["0038"]=["8","8-geschossig","8-Kilometer-Lauf","8-köpfig","8-minütig","8-prozentig","8-seitig","8-Stunden-Tag","8-Tonner","8-tägig","8-Uhr-Vorstellung","8-Uhr-Zug","8-wöchig","8.","80-minütig","80-Pfennig-Marke","80-prozentig"];

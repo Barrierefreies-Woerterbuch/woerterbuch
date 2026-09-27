@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-006a"]={"rj":["006a-0061:417cdd133e6e78","0072-0069:6e70f477cba4f4"],"rjasans":["0072-006a:1a8a22d3e20642"],"rjasan":["0072-006a:1a8a22d3e20642"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0073-00f8"]={"sønderjysk":["0073-00f8:1638662080321d"]};

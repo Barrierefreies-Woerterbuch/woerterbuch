@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006e-00e9"]={"négligé":["006e-0065:b4bc596876c7f5"],"nécessaire":["006e-0065:144987e569e036","006e-00e9:2aca48f7ab3dbc"],"nécessaires":["006e-00e9:2aca48f7ab3dbc"],"négritude":["006e-00e9:1b3162fe208563"]};

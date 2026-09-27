@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["1fbf-0000"]={"᾿":["0073-0070:b43ca35e418ff4"]};

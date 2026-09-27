@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0031-0038"]={"18.":["0061-0063:d32653845ae87f"],"18-stündig":["0061-0063:7af77a70b35c26"],"18-jährig":["0061-0063:c1ca8edd725292"],"18-eck":["0061-0063:a8347ebd4c41a4"],"180-grad-drehung":["0031-0038:5308afb03ce58c"],"180-grad-drehungen":["0031-0038:5308afb03ce58c"]};

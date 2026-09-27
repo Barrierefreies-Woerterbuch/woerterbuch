@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f6-002d"]={"ö-recht":["00f6-0066:d4c1d36ec4f97e"],"ö-lautes":["00f6-002d:5a1354a1d4475f"],"ö-lauts":["00f6-002d:5a1354a1d4475f"],"ö-laut":["00f6-002d:5a1354a1d4475f"],"ö-lauten":["00f6-002d:5a1354a1d4475f"],"ö-laute":["00f6-002d:5a1354a1d4475f"]};

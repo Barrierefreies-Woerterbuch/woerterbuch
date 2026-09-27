@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0027-0073"]={"'s bapperl":["0062-0061:426d202c0eec85"]};

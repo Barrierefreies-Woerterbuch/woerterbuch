@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0033-0067"]={"3g-regel":["0033-0067:690b019150ddf9"],"3g-regeln":["0033-0067:690b019150ddf9"],"3g-regelung":["0033-0067:690b019150ddf9"]};

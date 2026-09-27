@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0072-016b"]={"rūta":["0072-0075:b9c0d55ec6a0f9"]};

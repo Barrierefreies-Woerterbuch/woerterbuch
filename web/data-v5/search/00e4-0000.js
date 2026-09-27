@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00e4-0000"]={"ä":["00e4-0000:221b7eae5be4cf","00e4-0000:4388def573a73b"]};

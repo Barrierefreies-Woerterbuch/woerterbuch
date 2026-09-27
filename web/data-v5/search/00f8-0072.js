@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["00f8-0072"]={"øre":["00f6-0072:b39c48141cff99"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["0161-0065"]={"šeqel":["0073-0063:16ccba4307cdbc"]};

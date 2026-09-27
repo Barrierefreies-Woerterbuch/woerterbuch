@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["3390-0000"]={"㎐":["0068-0065:f4a11ce20ffcc0"]};

@@ -1,0 +1,1 @@
+window.DICTIONARY_SEARCH_SHARDS["006a-0067"]={"jgg":["006a-0067:708ed53742cd99"],"jg.":["006a-00e4:ba9769e3f9cd20","006a-0061:78624302bc389e","006a-0067:f0a33a66fc8a3c"],"jg":["006a-0067:9fa29bfdc1a383"],"jgdfr.":["006a-0075:c2748ad9a63a2e","006a-0067:b74fcd37df1c22"],"jga":["006a-0075:e6c716ac20dbfa"]};
